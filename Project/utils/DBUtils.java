@@ -11,7 +11,7 @@ public class DBUtils {
 	private final String JDBC_DRIVER="com.mysql.cj.jdbc.Driver";
 	private final String JDBC_URL="jdbc:mysql://127.0.0.1:3306/project";
 	private final String JDBC_USERNAME="root";
-	private final String JDBC_PASS="ch998815";
+	private final String JDBC_PASS="*****";
 	private Connection conn=null;
 	
 	//私有化
